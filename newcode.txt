@@ -1,0 +1,3 @@
+nihao
+helloWord
+6666
